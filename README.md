@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently open for new opportunities
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me https://www.linkedin.com/in/t-bouaziz-2b9361202/
+- 📫 How to reach me https://www.linkedin.com/in/thiziri-bouaziz-2b9361202/
 - ⚡ Fun fact: Open minded
 
 <!---
