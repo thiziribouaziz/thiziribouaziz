@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thiziri Bouaziz
+- 👋 Hi, I’m Thiziri BOUAZIZ
 - 👀 I’m interested in Programming
 - 🌱 I’m studing as a softwear developer
 - 💞️ I’m currently seeking a 6-month internship starting in December 2024
