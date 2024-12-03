@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thiziri BOUAZIZ
 - 👀 I’m interested in Programming
 - 🌱 I’m studing as a softwear developer
-- 💞️ I’m currently seeking a 6-month internship starting in December 2024
+- 💞️I'm looking to contribute to open source projects 
 - 📫 How to reach me https://www.linkedin.com/in/thiziri-bouaziz-2b9361202/
 - ⚡ Fun fact: Open minded
 
