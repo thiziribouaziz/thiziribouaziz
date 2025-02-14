@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiziri BOUAZIZ
 - 👀 I’m interested in Programming 
-- 🌱 I’m studing as a software developer
+- 🌱 I’m studing as a full-stack developer
 - 💞️ I'm looking to contribute to open source projects 
 - 📫 How to reach me https://www.linkedin.com/in/thiziri-bouaziz-2b9361202/
 - ⚡ Fun fact: Open minded
