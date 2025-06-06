@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Thiziri BOUAZIZ
+- 👋 Hi, I’m Thiziri 
 - 👀 I’m interested in Programming 
 - 🌱 I’m studing as a full-stack developer
-- 💞️ I'm looking to contribute to open source projects 
+- 💞️ I'm looking for my first job as a full stack developer 
 - 📫 How to reach me https://www.linkedin.com/in/thiziri-bouaziz-2b9361202/
 - ⚡ Fun fact: Open minded
 
