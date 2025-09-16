@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming 
 - 🌱 I’m a full-stack developer
 - 💞️ I'm looking for my first job as a full stack developer 
-- 📫 How to reach me https://www.linkedin.com/in/thiziri-bouaziz-2b9361202/
+- 📫 How to reach me:  https://www.linkedin.com/in/thiziri-bouaziz-17a891354/
 - ⚡ Fun fact: Open minded
 
 <!---
